@@ -1,6 +1,6 @@
-🚗 Vehicle Dashboard Using CAN Communication
+Vehicle Dashboard Using CAN Communication
 
-📌 Project Overview
+Project Overview
 
 The Vehicle Dashboard Using Automotive Industry Standard Mainline Communication Protocol is an embedded systems project designed to demonstrate communication between multiple electronic control nodes in an automotive environment using the CAN (Controller Area Network) protocol.
 
@@ -10,7 +10,7 @@ This project provides practical exposure to automotive communication protocols, 
 
 ---
 
-🎯 Objectives
+Objectives
 
 - To understand and implement CAN communication.
 - To establish communication between multiple embedded nodes.
@@ -21,7 +21,7 @@ This project provides practical exposure to automotive communication protocols, 
 
 ---
 
-🏗️ System Architecture
+System Architecture
 
 The project consists of multiple nodes connected through the CAN bus.
 
@@ -49,7 +49,7 @@ The project consists of multiple nodes connected through the CAN bus.
 
 ---
 
-⚙️ Working Principle
+Working Principle
 
 1. Different nodes collect or process vehicle-related information.
 2. The nodes communicate using the CAN protocol.
@@ -61,7 +61,7 @@ The project consists of multiple nodes connected through the CAN bus.
 
 ---
 
-🔧 Hardware Requirements
+Hardware Requirements
 
 - Microcontroller development board
 - CAN communication interface/controller
@@ -73,7 +73,7 @@ The project consists of multiple nodes connected through the CAN bus.
 
 ---
 
-💻 Software Requirements
+software Requirements
 
 - Embedded C
 - Microcontroller IDE/compiler
@@ -82,7 +82,7 @@ The project consists of multiple nodes connected through the CAN bus.
 
 ---
 
-📂 Project Structure
+Project Structure
 
 Vehicle-Dashboard-Using-Automotive-Industry-Standard-Mainline-Communication-Protocol/
 │
@@ -105,7 +105,7 @@ File| Description
 
 ---
 
-🚘 Automotive Communication
+Automotive Communication
 
 CAN (Controller Area Network) is widely used in automotive embedded systems to allow different ECUs to communicate without requiring a dedicated communication line between every ECU.
 
@@ -134,7 +134,7 @@ This project demonstrates the basic concept of multi-node ECU communication over
 
 ---
 
-🧠 Concepts Learned
+Concepts Learned
 
 Through this project, the following concepts were explored:
 
@@ -168,20 +168,20 @@ The project can be further extended by adding:
 
 ---
 
-👨‍💻 Author
+Author
 
 Jayakumar
 
 B.E. Electronics and Communication Engineering
 2025 Graduate
 
-🔗 GitHub
+ GitHub
 
 Project Repository:
 https://github.com/jayakumar54480/Vehicle-Dashboard-Using-Automotive-Industry-Standard-Mainline-Communication-Protocol
 
 ---
 
-📜 License
+ License
 
 This project is created for educational and learning purposes to demonstrate CAN-based automotive embedded communication.
